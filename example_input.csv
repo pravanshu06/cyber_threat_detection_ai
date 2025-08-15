@@ -1,0 +1,4 @@
+duration,src_bytes,dst_bytes,packets,protocol,flags,connections_last_min
+0.5,200,150,3,0,1,0
+12.0,5000,10,60,0,7,20
+1.2,100,200,4,1,0,0
